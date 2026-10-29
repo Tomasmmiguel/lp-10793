@@ -1,0 +1,26 @@
+produto,categoria,semana,preco,quantidade
+Sandes de queijo,Comida,1,1.50,42
+Sandes de fiambre,Comida,1,1.60,38
+Sumo de laranja,Bebida,1,1.00,55
+Água,Bebida,1,0.60,70
+Maçã,Fruta,1,0.50,30
+Iogurte,Laticínios,1,0.90,25
+Sandes de queijo,Comida,2,1.50,45
+Sandes de fiambre,Comida,2,1.60,
+Sumo de laranja,Bebida,2,1.00,48
+Água,Bebida,2,0.60,66
+Maçã,Fruta,2,0.50,34
+Iogurte,Laticínios,2,0.90,28
+Sandes de queijo,Comida,3,1.50,40
+Sandes de fiambre,Comida,3,1.60,36
+Sumo de laranja,Bebida,3,1.00,52
+Água,Bebida,3,0.60,81
+Água,Bebida,3,0.60,81
+Maçã,Fruta,3,0.50,29
+Iogurte,Laticínios,3,0.90,31
+Sandes de queijo,Comida,4,1.50,47
+Sandes de fiambre,Comida,4,1.60,41
+Sumo de laranja,Bebida,4,1.00,44
+Água,Bebida,4,0.60,77
+Maçã,Fruta,4,0.50,41
+Iogurte,Laticínios,4,0.90,22
